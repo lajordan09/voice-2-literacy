@@ -1,0 +1,114 @@
+:root {
+  /* Fonts */
+  --font-heading: 'Fredoka', system-ui, -apple-system, sans-serif;
+  --font-body: 'Outfit', system-ui, -apple-system, sans-serif;
+
+  /* HSL Color Palette - Child-friendly Playful Pastels */
+  --color-brand-hue: 215;
+  --color-primary: hsl(var(--color-brand-hue), 90%, 60%);
+  --color-primary-light: hsl(var(--color-brand-hue), 90%, 95%);
+  --color-primary-dark: hsl(var(--color-brand-hue), 90%, 45%);
+  
+  --color-secondary: hsl(265, 85%, 68%); /* Gentle Purple */
+  --color-secondary-light: hsl(265, 85%, 95%);
+  --color-accent: hsl(150, 65%, 50%); /* Soft Mint Green */
+  --color-accent-light: hsl(150, 65%, 94%);
+  
+  --color-warning: hsl(38, 95%, 58%); /* Sun Yellow */
+  --color-danger: hsl(350, 85%, 64%); /* Sweet Coral Pink */
+  
+  /* Neutral Palette - Creamy Light & Sleek Dark */
+  --bg-app: hsl(35, 40%, 97%); /* Warm vanilla background */
+  --bg-card: #ffffff;
+  --text-main: hsl(215, 30%, 15%);
+  --text-muted: hsl(215, 15%, 45%);
+  --border-color: hsl(215, 30%, 90%);
+  --shadow-soft: 0 8px 30px rgba(149, 157, 165, 0.12);
+  --shadow-bounce: 0 12px 24px -10px rgba(100, 116, 139, 0.25);
+  
+  --radius-lg: 24px;
+  --radius-md: 16px;
+  --radius-sm: 8px;
+
+  transition: background-color 0.4s ease, color 0.4s ease;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg-app: hsl(215, 25%, 11%);
+    --bg-card: hsl(215, 25%, 16%);
+    --text-main: hsl(215, 20%, 95%);
+    --text-muted: hsl(215, 12%, 70%);
+    --border-color: hsl(215, 25%, 22%);
+    --color-primary-light: hsl(var(--color-brand-hue), 30%, 20%);
+    --color-secondary-light: hsl(265, 30%, 22%);
+    --color-accent-light: hsl(150, 30%, 20%);
+    --shadow-soft: 0 10px 40px rgba(0, 0, 0, 0.3);
+    --shadow-bounce: 0 16px 32px -8px rgba(0, 0, 0, 0.4);
+  }
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  margin: 0;
+  font-family: var(--font-body);
+  background-color: var(--bg-app);
+  color: var(--text-main);
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  overflow-x: hidden;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--font-heading);
+  font-weight: 600;
+  line-height: 1.25;
+}
+
+button {
+  font-family: var(--font-heading);
+  font-size: 1rem;
+  font-weight: 600;
+  cursor: pointer;
+  border: none;
+  outline: none;
+  background: none;
+  transition: all 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+}
+
+textarea, input {
+  font-family: var(--font-body);
+  outline: none;
+  border: 2px solid var(--border-color);
+  background-color: var(--bg-app);
+  color: var(--text-main);
+  transition: border-color 0.2s ease, box-shadow 0.2s ease;
+}
+
+textarea:focus, input:focus {
+  border-color: var(--color-primary);
+  box-shadow: 0 0 0 4px var(--color-primary-light);
+}
+
+/* Scrollbar styling */
+::-webkit-scrollbar {
+  width: 10px;
+}
+::-webkit-scrollbar-track {
+  background: var(--bg-app);
+}
+::-webkit-scrollbar-thumb {
+  background: var(--border-color);
+  border-radius: 5px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: var(--text-muted);
+}
