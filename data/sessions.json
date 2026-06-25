@@ -1,0 +1,54 @@
+[
+  {
+    "id": "session_1",
+    "studentId": "student_leo",
+    "studentName": "Leo Carter",
+    "timestamp": "2026-06-23T00:23:36.733Z",
+    "raw_input": "me and my dog went to the park and it was good we saw a squirrel and chased it",
+    "edited_version": "My dog and I went to the park, and it was exciting! We saw a squirrel and chased it.",
+    "skill_mastery_focus": "Punctuation",
+    "sub_skill": "The Stop Sign (Run-on sentences)",
+    "engagement_score": 4,
+    "coach_notes": "Leo recognized the run-on nature of his sentence. He successfully broke it down and upgraded the word 'good' to 'exciting' with minimal prompt reminders.",
+    "status": "Completed"
+  },
+  {
+    "id": "session_2",
+    "studentId": "student_maya",
+    "studentName": "Maya Lin",
+    "timestamp": "2026-06-24T19:23:36.734Z",
+    "raw_input": "yesterday i saw mr johnson at the target store on main street",
+    "edited_version": "Yesterday, I saw Mr. Johnson at the Target store on Main Street.",
+    "skill_mastery_focus": "Capitalization",
+    "sub_skill": "The Name Game (Proper nouns)",
+    "engagement_score": 5,
+    "coach_notes": "Maya did an exceptional job identifying all proper nouns ('Yesterday', 'I', 'Mr. Johnson', 'Target', 'Main Street') and capitalized them correctly on her first attempt.",
+    "status": "Completed"
+  },
+  {
+    "id": "session_3",
+    "studentId": "student_sam",
+    "studentName": "Sam Rivera",
+    "timestamp": "2026-06-24T22:23:36.734Z",
+    "raw_input": "the cat said meow and then went away",
+    "edited_version": "The cat screeched 'meow' and then scampered away.",
+    "skill_mastery_focus": "Vocabulary Upgrading",
+    "sub_skill": "Word Upgrade (Replacing 'said' and 'went')",
+    "engagement_score": 3,
+    "coach_notes": "Sam felt a bit stuck selecting a synonym for 'went'. We pivoted to a Confidence Booster where we compared 'went' to 'scampered', which he loved and adopted.",
+    "status": "Completed"
+  },
+  {
+    "id": "session_4",
+    "studentId": "student_chloe",
+    "studentName": "Chloe Baker",
+    "timestamp": "2026-06-24T22:53:36.734Z",
+    "raw_input": "i think recess is the best because we can play kickball",
+    "edited_version": "I think recess is the best because we can play kickball, which lets us exercise and play with all our friends.",
+    "skill_mastery_focus": "Elaboration",
+    "sub_skill": "Evidence Check (Explaining 'why')",
+    "engagement_score": 5,
+    "coach_notes": "Chloe expanded her opinion beautifully when asked 'why kickball makes recess the best'. She expressed great enthusiasm.",
+    "status": "Completed"
+  }
+]

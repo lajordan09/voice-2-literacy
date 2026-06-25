@@ -1,0 +1,66 @@
+[
+  {
+    "id": "student_leo",
+    "name": "Leo Carter",
+    "avatar": "🐻",
+    "grade": "4th Grade",
+    "completedSessions": 3,
+    "averageEngagement": 4.2,
+    "masteredSkills": [
+      "Capitalization"
+    ],
+    "workingSkills": [
+      "Punctuation",
+      "Vocabulary Upgrading"
+    ],
+    "recentBadge": "Punctuation Pioneer"
+  },
+  {
+    "id": "student_maya",
+    "name": "Maya Lin",
+    "avatar": "🦊",
+    "grade": "4th Grade",
+    "completedSessions": 5,
+    "averageEngagement": 4.8,
+    "masteredSkills": [
+      "Capitalization",
+      "Punctuation"
+    ],
+    "workingSkills": [
+      "Elaboration"
+    ],
+    "recentBadge": "Capital Captain"
+  },
+  {
+    "id": "student_sam",
+    "name": "Sam Rivera",
+    "avatar": "🦁",
+    "grade": "4th Grade",
+    "completedSessions": 2,
+    "averageEngagement": 3.5,
+    "masteredSkills": [
+      "Elaboration"
+    ],
+    "workingSkills": [
+      "Vocabulary Upgrading"
+    ],
+    "recentBadge": "Juicy Word Wizard"
+  },
+  {
+    "id": "student_chloe",
+    "name": "Chloe Baker",
+    "avatar": "🦉",
+    "grade": "4th Grade",
+    "completedSessions": 4,
+    "averageEngagement": 4.5,
+    "masteredSkills": [
+      "Capitalization",
+      "Vocabulary Upgrading"
+    ],
+    "workingSkills": [
+      "Punctuation",
+      "Elaboration"
+    ],
+    "recentBadge": "Curious Thinker"
+  }
+]

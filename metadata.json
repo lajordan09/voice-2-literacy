@@ -1,0 +1,1 @@
+{"name":"Voice2Literacy","description":"An interactive literacy coach for 4th-grade students using voice-to-text, supportive scaffolding, and a detailed teacher dashboard.","requestFramePermissions":["microphone"],"majorCapabilities":["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]}
