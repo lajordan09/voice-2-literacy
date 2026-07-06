@@ -60,12 +60,13 @@ This project serves as my capstone project, designed and developed during the **
 **The walkthrough covers the core features, system architecture, and live agent behaviors.**
 ---
 
-## 🛠️ Created By
+## 👥 Author
 
-**Laquita Jordan**  
-*AI Developer & Capstone Creator*  
-📅 Developed during the Kaggle & Google AI Agents Intensive (June 15 – 19, 2026)
+* **Laquita Jordan** - *Lead Developer* 
+* **Cohort:** Kaggle & Google AI Agents Intensive (June 2026)
 
-👉🏾 [Email Me](mailto:laquitaj901@gmail.com) • [LinkedIn Profile](https://www.linkedin.com/in/laquitajordan-memphis/) • [Data Portfolio](https://mydatafolio.com/p/laquita-jordan)
-
+### 📬 Connect With Me
+* 📧 **Email:** [laquitaj901@gmail.com](mailto:laquitaj901@gmail.com)
+* 💼 **LinkedIn:** [laquitajordan-memphis](https://www.linkedin.com/in/laquitajordan-memphis/)
+* 🌐 **Portfolio Website:** [MyDataFolio Profile](https://mydatafolio.com/p/laquita-jordan)
 
