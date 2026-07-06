@@ -57,7 +57,7 @@ This project serves as my capstone project, designed and developed during the **
 
 **[Watch the Capstone Demo Video on YouTube](https://youtu.be/321mK_wepHw)**
 
-The walkthrough covers the core features, system architecture, and live agent behaviors.
+**The walkthrough covers the core features, system architecture, and live agent behaviors.**
 ---
 
 ## 🛠️ Created By
