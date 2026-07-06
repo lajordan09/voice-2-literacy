@@ -49,3 +49,16 @@ This project was built as a capstone project for **Kaggle's 5-Day AI Agents: Int
     npm run dev
     ```
 2.  Open your browser and navigate to the local server URL (usually `http://localhost:5173/`).
+---
+
+## 🎬 Demo Video
+
+This project serves as my capstone project, designed and developed during the **Kaggle & Google AI Agents Intensive** (June 15 – 19, 2026). 
+
+**[Watch the Capstone Demo Video on YouTube](https://youtu.be/321mK_wepHw)**
+
+The walkthrough covers the core features, system architecture, and live agent behaviors.
+
+---
+*Designed and developed during the Kaggle & Google AI Agents Intensive (June 15 - 19, 2026).*
+
