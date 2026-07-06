@@ -58,7 +58,14 @@ This project serves as my capstone project, designed and developed during the **
 **[Watch the Capstone Demo Video on YouTube](https://youtu.be/321mK_wepHw)**
 
 The walkthrough covers the core features, system architecture, and live agent behaviors.
-
 ---
-*Designed and developed during the Kaggle & Google AI Agents Intensive (June 15 - 19, 2026).*
+
+## 🛠️ Created By
+
+**Laquita Jordan**  
+*AI Developer & Capstone Creator*  
+📅 Developed during the Kaggle & Google AI Agents Intensive (June 15 – 19, 2026)
+
+👉🏾 [Email Me](mailto:laquitaj901@gmail.com) • [LinkedIn Profile](https://www.linkedin.com/in/laquitajordan-memphis/) • [Data Portfolio](https://mydatafolio.com/p/laquita-jordan)
+
 
